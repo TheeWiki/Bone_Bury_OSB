@@ -18,7 +18,7 @@ import org.osbot.rs07.script.Script;
 import org.osbot.rs07.script.ScriptManifest;
 import org.osbot.rs07.utility.ConditionalSleep;
 
-@ScriptManifest(author = "Booleans Yay", info = "Bone burying made ez pz", name = "Bone Bury", version = 1, logo = "https://tpc.googlesyndication.com/pagead/imgad?id=CICAgKDLttvlVRABGAEyCDT50KFsmbCA")
+@ScriptManifest(author = "Booleans Yay", info = "Bone burying made ez pz", name = "Bone Bury", version = 1, logo = "https://i.imgur.com/2gcLb2Z.png")
 
 public class BoneBury extends Script {
 	
